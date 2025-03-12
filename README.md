@@ -1,3 +1,3 @@
 # for-practice-i-guess
-for practice using codespaced
+for practice using codespaces
 yeah...
